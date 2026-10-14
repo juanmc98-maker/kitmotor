@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /gracias
+
+Sitemap: https://www.kitmotor.es/sitemap.xml
